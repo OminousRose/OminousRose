@@ -1,68 +1,64 @@
 # Hi, I'm Eric 👋
 
-Recent Computer Science graduate from the University of Illinois Chicago with interests in web development, SQL and data analysis, application support, and technical problem-solving.
+Computer Science graduate from the University of Illinois Chicago who enjoys
+building practical software, working with structured data, and turning messy
+technical problems into clean, usable solutions.
 
-I enjoy building practical software, working with structured data, debugging unexpected behavior, and turning technical ideas into clear, usable experiences.
+I like moving across the stack — writing application code, designing and
+querying databases, and evaluating complex systems for correctness — and I
+care about the details that make software actually hold up.
 
 ## About Me
 
-* 🎓 B.S. in Computer Science, University of Illinois Chicago — May 2026
-* 💻 Experience with React, JavaScript, SQL, Python, and C++
-* 🔎 Interested in application support, data analysis, software development, and technical systems roles
-* 🧠 Experienced in evaluating AI-generated code, reasoning, and written outputs for accuracy and consistency
-* 🛠️ Comfortable troubleshooting software, configurations, APIs, and technical workflows
-* 📍 Based in Elgin, Illinois
+- 🎓 B.S. in Computer Science, University of Illinois Chicago — May 2026
+- 💻 Build with React, JavaScript, Python, C++, and SQL
+- 🛠️ Comfortable across frontend, backend, databases, and debugging
+- 🧪 Evaluate AI-generated code and reasoning for accuracy and consistency
+- 🎥 Create programming content on YouTube (CodeSphere)
+- 📍 Based near Elgin, Illinois
 
 ## Technical Skills
 
-**Languages:** SQL, Python, C++, JavaScript, HTML, CSS
-**Frameworks:** React, Django
-**Tools:** Git, GitHub, Linux, VS Code, Mock Service Worker
-**Concepts:** Database Design, REST APIs, Data Analysis, Debugging, Technical Documentation, Systems Thinking
+**Languages:** Python, C++, JavaScript, SQL, HTML/CSS
+**Frameworks & Tools:** React, Django, Git/GitHub, Linux, VS Code, Mock Service Worker (MSW), REST APIs
+**Foundations:** Data Structures & Algorithms, Object-Oriented Programming, Database Design, Debugging, Testing, Systems Thinking
 
 ## Featured Projects
 
-### Student Life Guessr
+### Student Life Guessr — React, JavaScript, REST APIs
+A campus event-discovery application built with React.
+- Built reusable frontend components and connected them to backend API endpoints
+- Used Mock Service Worker to simulate endpoints during development and testing
+- Collaborated with a team to implement and validate user-facing workflows
 
-A campus event discovery application built with React.
+### Balatro Statistics Analyzer — SQL, Relational Databases
+A self-directed project analyzing gameplay statistics through a relational schema.
+- Designed a normalized database structure to organize and query game data
+- Wrote SQL using joins, aggregations, filtering, and window functions to surface trends
+- Documented the schema and sample queries for reproducibility
 
-* Developed reusable frontend components
-* Connected frontend interfaces to backend API endpoints
-* Used Mock Service Worker to support frontend development and testing
-* Collaborated with a team to implement and validate user-facing workflows
+### Personal Portfolio Website — Next.js, React, TypeScript
+A responsive site showcasing my projects and technical work.
+- Built with reusable components and a modern frontend workflow
+- Deployed with an automated GitHub-based deploy pipeline
+- 🔗 [ominousrose.com](https://ominousrose.com)
 
-### Balatro Statistics Analyzer
+### Devil You Date — Unity, C#
+Lead Designer on a Unity-based narrative horror game.
+- Built UI systems, gameplay interactions, environment design, and audio integration
+- Translated design direction into playable, user-facing systems
 
-A relational database and SQL analytics project for organizing and analyzing gameplay statistics.
+## Currently Building
 
-* Designed a relational database structure
-* Wrote queries using joins, aggregations, filtering, and analytical patterns
-* Applied data modeling and structured analysis to identify gameplay trends
+- Full-stack projects combining React frontends with Python/SQL backends
+- Data-analysis tooling and SQL workflows for real datasets
+- Programming content and walkthroughs for CodeSphere
 
-### Personal Portfolio
+## Connect
 
-My personal website showcasing my projects, technical experience, and interests.
-
-* Built with modern frontend development practices
-* Created reusable components and organized project content
-* Managed development and deployment through Git and GitHub
-
-🌐 [Visit my portfolio](https://ominousrose.com)
-
-## Currently Focused On
-
-* Strengthening my SQL and data-analysis skills
-* Building practical full-stack and reporting projects
-* Learning more about application support and business systems
-* Improving my understanding of professional software architecture
-
-## Connect With Me
-
-* 🌐 [Portfolio](https://ominousrose.com)
-* 📧 [eric.flores.cs@outlook.com](mailto:eric.flores.cs@outlook.com)
-
-
-
+- 🌐 [ominousrose.com](https://ominousrose.com)
+- 📫 eric.flores.cs@outlook.com
+- 🎥 CodeSphere on YouTube — [https://www.youtube.com/@iCodeSphere]
 
 
 <!--
