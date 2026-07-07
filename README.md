@@ -1,19 +1,65 @@
-### Hi! I'm Eric 🌺
+# Hi, I'm Eric 👋
 
-  On the path to become a systems engineer with profient knowledge in both hardware and software related fields
-  to be a versatile teamm player for a group.🖥️🖱️
-  
-  🖥️ Aspiring Systems Engineer with a passion for both hardware and software  
-  🎒 Proficient in C++  
-  📘 Currently advancing in Python  
-  🛠️ Skilled in crafting custom-built PCs and maintaining them for optimal performance  
-  🔍 Strong problem-solving skills, demonstrated by diagnosing and replacing defective parts in custom builds  
-  📚 Constantly expanding my knowledge and skills to excel in the world of systems engineering  
-  🟣 Fun fact: I love to play games and livestream them for an audience  
+Recent Computer Science graduate from the University of Illinois Chicago with interests in web development, SQL and data analysis, application support, and technical problem-solving.
 
-  One of the personal best projects consisted of gathering a group of computer components: CPU, Motherboard, GPU, Memory, Storage, PSU, CPU Cooler, and Case
-  and successfully constructed a system that was fully operational and optemized for maximum performance through overclocking and voltage tuning. Soon after I took on
-  another project that led to me having to diagnose a defective part in a custom build, successfully replace it and return the PC to a stable condition 
+I enjoy building practical software, working with structured data, debugging unexpected behavior, and turning technical ideas into clear, usable experiences.
+
+## About Me
+
+* 🎓 B.S. in Computer Science, University of Illinois Chicago — May 2026
+* 💻 Experience with React, JavaScript, SQL, Python, and C++
+* 🔎 Interested in application support, data analysis, software development, and technical systems roles
+* 🧠 Experienced in evaluating AI-generated code, reasoning, and written outputs for accuracy and consistency
+* 🛠️ Comfortable troubleshooting software, configurations, APIs, and technical workflows
+* 📍 Based in Elgin, Illinois
+
+## Technical Skills
+
+**Languages:** SQL, Python, C++, JavaScript, HTML, CSS
+**Frameworks:** React, Django
+**Tools:** Git, GitHub, Linux, VS Code, Mock Service Worker
+**Concepts:** Database Design, REST APIs, Data Analysis, Debugging, Technical Documentation, Systems Thinking
+
+## Featured Projects
+
+### Student Life Guessr
+
+A campus event discovery application built with React.
+
+* Developed reusable frontend components
+* Connected frontend interfaces to backend API endpoints
+* Used Mock Service Worker to support frontend development and testing
+* Collaborated with a team to implement and validate user-facing workflows
+
+### Balatro Statistics Analyzer
+
+A relational database and SQL analytics project for organizing and analyzing gameplay statistics.
+
+* Designed a relational database structure
+* Wrote queries using joins, aggregations, filtering, and analytical patterns
+* Applied data modeling and structured analysis to identify gameplay trends
+
+### Personal Portfolio
+
+My personal website showcasing my projects, technical experience, and interests.
+
+* Built with modern frontend development practices
+* Created reusable components and organized project content
+* Managed development and deployment through Git and GitHub
+
+🌐 [Visit my portfolio](https://ominousrose.com)
+
+## Currently Focused On
+
+* Strengthening my SQL and data-analysis skills
+* Building practical full-stack and reporting projects
+* Learning more about application support and business systems
+* Improving my understanding of professional software architecture
+
+## Connect With Me
+
+* 🌐 [Portfolio](https://ominousrose.com)
+* 📧 [eric.flores.cs@outlook.com](mailto:eric.flores.cs@outlook.com)
 
 
 
